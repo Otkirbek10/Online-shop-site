@@ -1,2 +1,2 @@
 # Shop
-Django Framework
+ Online Shop with Django Framework
